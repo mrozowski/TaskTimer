@@ -1,6 +1,8 @@
 # TaskTimer
 The timer in Python. I wrote it to learn more about multithreading in Python language. For GUI I used the PyQT framework. It works really smoothly. I use it often when I study or coding because I have a tendency to forget about the world when I focus too much. And we all need to eat something or do some exercises once a while. Sitting many hours by computer is not much healthy.
 
+
+
 ![Screen](Screenshots/main.JPG?raw=true "Main")
 
 ## 1. Design 
@@ -28,6 +30,6 @@ This screenshot shows my implementation of a custom button using png files for n
 This button has 2 states - Start and Cancel. The first state runs timer second cancel it. In the override ```paintEvent()``` method I set the button look accordingly to the button state.
 
 
-
+You can download exe file from Google drive and check it on your computer - [Exe file](https://drive.google.com/file/d/1S-Ts1BirXW5rBvz1X18VboquWeWjvRpE/view?usp=sharing)
 
 
